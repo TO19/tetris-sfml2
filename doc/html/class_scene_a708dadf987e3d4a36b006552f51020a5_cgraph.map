@@ -1,0 +1,18 @@
+<map id="Scene::GenerateShape" name="Scene::GenerateShape">
+<area shape="rect" id="node1" title=" " alt="" coords="5,233,163,260"/>
+<area shape="rect" id="node2" href="$class_scene.html#a21aecac25e59592abed6f45fd010022c" title=" " alt="" coords="238,56,362,83"/>
+<area shape="rect" id="node3" href="$class_shape_entity.html#ac43aff1207da1961d70e12daa0e26d7c" title=" " alt="" coords="211,107,389,133"/>
+<area shape="rect" id="node4" href="$class_shape_factory.html#a19ad0b52d79fa6c4ba99c6aea086243c" title=" " alt="" coords="225,157,375,184"/>
+<area shape="rect" id="node12" href="$class_playable_area.html#acc2354cd465207dcb26b894caeeb918e" title=" " alt="" coords="223,208,377,235"/>
+<area shape="rect" id="node13" href="$class_scene.html#ab8e3c1a336c21dd0198f7311243b8118" title=" " alt="" coords="234,259,366,285"/>
+<area shape="rect" id="node14" href="$class_scene.html#abd74e3cf3c71c5ead07bf3df96488fff" title=" " alt="" coords="239,309,361,336"/>
+<area shape="rect" id="node15" href="$class_playable_area.html#ae8c422a6d783bff3c64904658f7d3e15" title=" " alt="" coords="211,360,389,387"/>
+<area shape="rect" id="node16" href="$class_scene.html#a5d5a7b461d9323280419bcaacac54d16" title=" " alt="" coords="217,411,383,437"/>
+<area shape="rect" id="node5" href="$_shape_factory_8cpp.html#ada5401bca420cde1628058115b769801" title=" " alt="" coords="457,5,593,32"/>
+<area shape="rect" id="node6" href="$_shape_factory_8cpp.html#a8c08b8de0245042a9cf22c271f9fbc2b" title=" " alt="" coords="466,56,585,83"/>
+<area shape="rect" id="node7" href="$_shape_factory_8cpp.html#a376d96b4ebd76f2ec8a74d7ca2239c50" title=" " alt="" coords="438,107,613,133"/>
+<area shape="rect" id="node8" href="$_shape_factory_8cpp.html#a93294a635f86a312866b3b3c5d6fb9dc" title=" " alt="" coords="437,157,613,184"/>
+<area shape="rect" id="node9" href="$_shape_factory_8cpp.html#a40166ebef21b3bb2059c698a5280ee0d" title=" " alt="" coords="449,208,602,235"/>
+<area shape="rect" id="node10" href="$_shape_factory_8cpp.html#aa1dd002226238489762d8f990da8ccdd" title=" " alt="" coords="465,259,585,285"/>
+<area shape="rect" id="node11" href="$_shape_factory_8cpp.html#a41b95717dc8fe69bcdac3c7300d1dc8c" title=" " alt="" coords="465,309,585,336"/>
+</map>

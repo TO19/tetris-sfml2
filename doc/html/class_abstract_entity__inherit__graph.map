@@ -1,0 +1,6 @@
+<map id="AbstractEntity" name="AbstractEntity">
+<area shape="rect" id="node1" title=" " alt="" coords="49,5,155,32"/>
+<area shape="rect" id="node2" href="$class_block_entity.html" title=" " alt="" coords="5,80,95,107"/>
+<area shape="rect" id="node3" href="$class_movable.html" title=" " alt="" coords="119,80,189,107"/>
+<area shape="rect" id="node4" href="$class_shape_entity.html" title=" " alt="" coords="107,155,201,181"/>
+</map>

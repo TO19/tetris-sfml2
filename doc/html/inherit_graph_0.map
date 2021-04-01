@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_abstract_entity.html" title=" " alt="" coords="5,31,111,57"/>
+<area shape="rect" id="node2" href="$class_block_entity.html" title=" " alt="" coords="160,5,249,32"/>
+<area shape="rect" id="node3" href="$class_movable.html" title=" " alt="" coords="169,56,240,83"/>
+<area shape="rect" id="node4" href="$class_shape_entity.html" title=" " alt="" coords="299,81,392,108"/>
+<area shape="rect" id="node5" href="$class_i_observable.html" title=" " alt="" coords="159,107,251,133"/>
+</map>

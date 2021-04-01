@@ -1,0 +1,9 @@
+<map id="ShapeEntity::SetPosition" name="ShapeEntity::SetPosition">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,173,57"/>
+<area shape="rect" id="node2" href="$class_shape_entity.html#a32403a29c39853f4070324545c998eed" title=" " alt="" coords="221,5,352,32"/>
+<area shape="rect" id="node6" href="$class_shape_entity.html#a60bac64ff32ed32269dabd56d93b718d" title=" " alt="" coords="221,56,352,83"/>
+<area shape="rect" id="node3" href="$class_shape_entity.html#a92c6abc9422e22f48a3835a6a2380339" title=" " alt="" coords="400,5,564,32"/>
+<area shape="rect" id="node4" href="$class_movable.html#ae959c2c3fad96c92d43a13277e37fd4e" title=" " alt="" coords="612,56,755,83"/>
+<area shape="rect" id="node5" href="$class_shape_entity.html#a46b9708447aed66e62c647e9efa4bf5c" title=" " alt="" coords="612,5,755,32"/>
+<area shape="rect" id="node7" href="$class_shape_entity.html#a3d188b666f1fa371cb32fcd499706c5e" title=" " alt="" coords="400,56,564,83"/>
+</map>

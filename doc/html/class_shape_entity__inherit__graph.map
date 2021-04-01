@@ -1,0 +1,6 @@
+<map id="ShapeEntity" name="ShapeEntity">
+<area shape="rect" id="node1" title=" " alt="" coords="63,155,157,181"/>
+<area shape="rect" id="node2" href="$class_movable.html" title=" " alt="" coords="23,80,93,107"/>
+<area shape="rect" id="node3" href="$class_abstract_entity.html" title=" " alt="" coords="5,5,111,32"/>
+<area shape="rect" id="node4" href="$class_i_observable.html" title=" " alt="" coords="117,80,209,107"/>
+</map>
